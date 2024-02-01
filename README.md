@@ -1,4 +1,6 @@
-# Contiguous-Memory-Allocation-of-files-into-disk
+# Contiguous-Memory-Allocation-of-files-into-disk 
+An academic task performed in my 3rd semester.
+
 Simulation program for the contiguous memory allocation of files into disk
 pproach:
  Contiguous Allocation of memory in disk states that the 
